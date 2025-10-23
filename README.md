@@ -9,7 +9,8 @@ Singleton Design Pattern ensures a class has only one instance throughout the ap
 🔸 Ensures consistency and state management across the app.
 🔸 Helps maintain thread safety in concurrent environments.
 
-⚙️ Where is Singleton Used?
+⚙️ Where is Singleton Used?[singleton design pattern.pdf](https://github.com/user-attachments/files/23107508/singleton.design.pattern.pdf)
+
 Commonly used for:
 🔸 Configuration managers where only one config object should exist.
 🔸 Logging systems to handle logs in a unified way.
